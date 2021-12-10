@@ -1,7 +1,21 @@
 version
 =======
 
-Update VERSION file and create git tag.
+Update and commit VERSION file and tag commit with version number.
+
+
+Installation
+------------
+
+I recommend installing `version` in the `/usr/local/bin` directory:
+
+    cp version /usr/local/bin
+
+
+Usage
+-----
+
+    version VERSION_STRING
 
 
 License

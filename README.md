@@ -1,27 +1,23 @@
-version
-=======
+# version
 
 Update and commit VERSION file and tag commit with version number.
 
 
-Installation
-------------
+## Installation
 
 I recommend installing `version` in the `/usr/local/bin` directory:
 
     cp version /usr/local/bin
 
 
-Usage
------
+## Usage
 
     version VERSION_STRING
 
 
-License
--------
+## License
 
-Copyright (C) 2021 Robert Coffey
+Copyright (C) 2021-2022 Robert Coffey
 
 This is free software: you can redistribute it and/or modify it under the terms
 of the GNU General Public License version 3.

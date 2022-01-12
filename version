@@ -7,4 +7,4 @@
 echo "$1" > VERSION
 git add VERSION
 git commit -m "Update version: $1"
-git tag v"$1"
+git tag "$1"

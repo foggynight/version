@@ -6,5 +6,5 @@
 
 echo "$1" > VERSION
 git add VERSION
-git commit -m "Update version: $1"
+git commit -m "Bump version: $1"
 git tag "$1"
